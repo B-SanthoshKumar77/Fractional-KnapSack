@@ -1,0 +1,24 @@
+{
+  "name": "fractional-knapsack",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/B-SanthoshKumar77/Fractional-KnapSack#readme",
+  "bugs": {
+    "url": "https://github.com/B-SanthoshKumar77/Fractional-KnapSack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-SanthoshKumar77/Fractional-KnapSack.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
